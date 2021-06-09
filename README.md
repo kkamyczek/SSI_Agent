@@ -20,7 +20,7 @@
 
 
 
-5. Add access to repository - https://github.com/kkamyczek/SSI_Agent![Pasted Graphic 5](files/Pasted%20Graphic%205.png)
+5. Add access to repository - https://github.com/kkamyczek/SSI_Agent ![Pasted Graphic 5](files/Pasted%20Graphic%205.png)
 
 
 
