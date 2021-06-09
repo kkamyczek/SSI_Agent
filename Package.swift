@@ -14,6 +14,6 @@ let package = Package(
         .binaryTarget(
             name: "ssi_agent",
             url: "https://github.com/kkamyczek/Storage/raw/master/ssi_agent.xcframework.zip",
-            checksum: "b9d87d725565adf101d9bfa818039610"
+            checksum: "3974adf18045ea3e6b5cca158cdebcb3176c7dc36e324a4d316f3a449a0b0cfc"
         )
     ])
