@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ssi_agent",
-            url: "https://github.com/kkamyczek/Storage/blob/master/ssi_agent.xcframework.zip",
+            url: "https://github.com/kkamyczek/Storage/raw/master/ssi_agent.xcframework.zip",
             checksum: "b9d87d725565adf101d9bfa818039610"
         )
     ])
