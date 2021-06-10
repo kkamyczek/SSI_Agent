@@ -6,10 +6,8 @@ Pod::Spec.new do |s|
     s.homepage     = ""
     s.license      = ""
     s.author       = { "Krzysztof Kamyczek" => "krzysztof.kamyczek@dxc.com" }
-    s.source       = { :http => "https://github.com/kkamyczek/Storage/raw/master/ssi_agent.xcframework.zip",
-		      :http => "https://github.com/kkamyczek/Storage/raw/master/libzmq_pw.xcframework.zip",
-		      :http => "https://github.com/kkamyczek/Storage/raw/master/sodium.xcframework.zip"}
-    s.vendored_frameworks = "ssi_agent", "libzmq_pw", "sodium"
+    s.source       = { :http => "https://github.com/kkamyczek/Storage/raw/master/ssi_agent.xcframework.zip"}
+    s.vendored_frameworks = "ssi_agent"
     s.platform = :ios
     s.swift_version = "4.2"
     s.ios.deployment_target  = '12.0'
