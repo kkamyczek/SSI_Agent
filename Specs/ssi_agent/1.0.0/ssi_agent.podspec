@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
     s.license      = ""
     s.author       = { "Krzysztof Kamyczek" => "krzysztof.kamyczek@dxc.com" }
     s.source       = { :http => "https://github.com/kkamyczek/Storage/raw/master/ssi_agent.xcframework.zip"}
-    s.vendored_frameworks = "ssi_agent"
+    s.vendored_frameworks = "ssi_agent.xcframework"
     s.platform = :ios
     s.swift_version = "4.2"
     s.ios.deployment_target  = '12.0'
