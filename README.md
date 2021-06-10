@@ -7,7 +7,7 @@ Use Cocoapod:
   pod setup
   pod install --verbose
 ```
-4. Run XCode on Test.xcworkspace. (take a look at troubleshooting section and set BIT_CODE = No ).
+4. Run XCode on Test.xcworkspace. (take a look at troubleshooting section and set BIT_CODE = Yes ).
 5. Remember to set proper ip addresses.
 6. Build and run for simulator or real device.
 
