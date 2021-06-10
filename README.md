@@ -42,3 +42,7 @@
 
 9. Remember to set right IP addresses and click Build and Run.![Pasted Graphic 10](files/Pasted%20Graphic%2010.png)
 
+10. Troubleshooting and enable BIT_CODE.![Pasted Graphic 14](files/Pasted%20Graphic%2014.png)
+
+![Pasted Graphic 15](files/Pasted%20Graphic%2015.png)
+
