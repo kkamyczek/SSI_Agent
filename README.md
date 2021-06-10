@@ -1,3 +1,19 @@
+Use Cocoapod:
+
+1. Clone repository.
+2. Go to sample directory.
+3. Run:
+```
+  pod setup
+  pod install --verbose
+```
+4. Run XCode on Test.xcworkspace.
+5. Remember to set proper ip addresses.
+6. Build and run for simulator or real device.
+
+
+Use Package manager:
+
 1. Create new Swift project 
 
 ![Choose options for your new project](files/Choose%20options%20for%20your%20new%20project.png)
