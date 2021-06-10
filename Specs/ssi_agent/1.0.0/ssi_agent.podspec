@@ -10,5 +10,5 @@ Pod::Spec.new do |s|
     s.vendored_frameworks = "ssi_agent.xcframework"
     s.platform = :ios
     s.swift_version = "4.2"
-    s.ios.deployment_target  = '12.0'
+    s.ios.deployment_target  = '10.2'
 end
